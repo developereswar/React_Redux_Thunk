@@ -1,0 +1,3 @@
+export const DEVICELIST = "DEVICELIST";
+export const LOGINAUTH = "LOGINAUTH";
+export const DEVICEDETAIL = "DEVICEDETAIL";
